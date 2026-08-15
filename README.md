@@ -36,5 +36,13 @@ I build data pipelines, analytical solutions, and machine learning projects with
 - Exploring LLM evaluation and AI-assisted software development
 - Improving pipeline reliability, testing, and automation
 
+## 🎓 Certifications
+
+- **Microsoft Certified: Azure Data Fundamentals (DP-900)**
+- **Microsoft Certified: Azure AI Fundamentals (AI-900)**
+- **AWS Certified AI Practitioner**
+- **AWS Certified Cloud Practitioner**
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**
+
 ## 📫 Connect with me
 - GitHub: https://github.com/miadataengineer
