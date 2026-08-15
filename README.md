@@ -38,11 +38,3 @@ I build data pipelines, analytical solutions, and machine learning projects with
 
 ## 📫 Connect with me
 - GitHub: https://github.com/miadataengineer
-
----
-
-If you want, I can:
-- adapt the README to Portuguese or make a bilingual version;
-- add badges (e.g., language, build, coverage);
-- add project summaries with links and status;
-- add a contact section with email and social links.
