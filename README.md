@@ -37,8 +37,6 @@ I build data pipelines, analytical solutions, and machine learning projects with
 - Improving pipeline reliability, testing, and automation
 
 ## 📫 Connect with me
-
-- LinkedIn: YOUR_LINKEDIN_URL
 - GitHub: https://github.com/miadataengineer
 
 ---
