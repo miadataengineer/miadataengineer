@@ -1,50 +1,50 @@
-# Olá, eu sou a Lira 👋
+# Hi, I'm Lira 👋
 
 ### Data Engineer | Python | SQL | Machine Learning | AI
 
-Eu construo pipelines de dados, soluções analíticas e projetos de machine learning com foco em processamento de dados confiável e aplicações práticas de IA.
+I build data pipelines, analytical solutions, and machine learning projects with a focus on reliable data processing and practical AI applications.
 
-## 🚀 Tecnologias e competências
+## 🚀 Technologies & Skills
 
 - 🐍 Python
 - 🗄️ SQL
-- ⚙️ Engenharia de Dados
-- 📊 Análise de Dados
+- ⚙️ Data Engineering
+- 📊 Data Analytics
 - 🤖 Machine Learning
-- 🧠 Avaliação de IA e LLMs
-- 🧪 Qualidade de Dados e Testes
+- 🧠 AI & LLM Evaluation
+- 🧪 Data Quality & Testing
 - 🔄 ETL / ELT Pipelines
 - 🛠️ Git & GitHub
 
-## 📌 Projetos em destaque
+## 📌 Featured Projects
 
 - 🔹 Data Engineering Pipeline
 
-  Pipeline de dados de ponta a ponta usando Python, Airflow, dbt, SQL, testes automatizados e transformação de dados.
+  End-to-end data pipeline using Python, Airflow, dbt, SQL, automated testing, and data transformation.
 
-- 🔹 Machine Learning — Classificação KNN
+- 🔹 Machine Learning — KNN Classification
 
-  Projeto de machine learning incluindo pré-processamento de dados, escalonamento de features, busca de hiperparâmetros e avaliação do modelo.
+  Machine learning project including data preprocessing, feature scaling, hyperparameter tuning, and model evaluation.
 
-- 🔹 Projetos de IA & LLM
+- 🔹 AI & LLM Projects
 
-  Projetos focados em avaliação de saídas geradas por IA, qualidade de código e aplicações práticas de modelos de linguagem.
+  Projects focused on evaluating AI-generated outputs, code quality, and practical applications of large language models.
 
-## 📈 Atualmente
+## 📈 Currently
 
-- Construindo projetos em Engenharia de Dados e IA
-- Explorando avaliação de LLMs e desenvolvimento assistido por IA
-- Melhorando confiabilidade de pipelines, testes e automação
+- Building projects in Data Engineering and AI
+- Exploring LLM evaluation and AI-assisted software development
+- Improving pipeline reliability, testing, and automation
 
-## 📫 Conecte-se comigo
+## 📫 Connect with me
 
 - LinkedIn: YOUR_LINKEDIN_URL
 - GitHub: https://github.com/miadataengineer
 
 ---
 
-Se quiser, posso:
-- adaptar o README para inglês ou bilíngue;
-- adicionar badges (por exemplo de linguagem, build, cobertura);
-- incluir um resumo dos projetos com links e status;
-- formatar uma seção de contatos com e-mail e redes sociais.
+If you want, I can:
+- adapt the README to Portuguese or make a bilingual version;
+- add badges (e.g., language, build, coverage);
+- add project summaries with links and status;
+- add a contact section with email and social links.
